@@ -1,0 +1,1 @@
+g++ delay_manager.cc delay_peak_detector.cc tick_timer.cc main.cc detector.cc -std=c++11 -o a.out
